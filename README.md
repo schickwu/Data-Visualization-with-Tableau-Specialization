@@ -18,7 +18,7 @@ Five course seires:
 
 - Combine the data to and follow the best practices to present your story
 
-## Skills you'll gain
+## Skills I've gained
 - Storyboarding
 - Map
 - Tableau Software
